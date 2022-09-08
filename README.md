@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Ambulkar</h1>
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fascinate&size=35&duration=4000&color=e08c44&center=true&width=514&height=90&lines=WELCOME)<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="200px">
+<img src="https://media3.giphy.com/media/3oFzmsANNWiz1ENuVy/giphy.gif?cid=ecf05e47m65ds4ptj5pewmel4d0vfemcwtd8350hii03a3j9&rid=giphy.gif&ct=s" width="200px">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Ranjeet+Sahoo;Full+Stack+Devloper;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Pavan+Ambulkar;Full+Stack+Devloper;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
 
    <img src="https://komarev.com/ghpvc/?username=Pavanambulkar&label=Profile%20views&color=F7794E&style=flat"
     alt="Pavan" /> 
