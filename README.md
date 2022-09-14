@@ -88,7 +88,7 @@
 ## 🤳Get in touch:
 - 📫 How to reach me **7385581794**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1xGvxLk9RKdb33oNs6fa1ujOAfpeNmpZD/view
+- 📄 Know about my experiences https://drive.google.com/file/d/1EIIAuBtFA2rfq4pFJxDQIukrwu3REkhg/view
 
 
 <p align="center">
