@@ -3,10 +3,24 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=56F722&lines=Hi+there+%E2%9C%8C%EF%B8%8Fwelcome+to+my+profile;I+am+Pavan+Ambulkar;Full+Stack+Devloper;Always+Learning+new+things;Exploring+Interstellar%E2%9C%A8%F0%9F%8C%A0)
 
-   <img src="https://komarev.com/ghpvc/?username=Pavanambulkar&label=Profile%20views&color=F7794E&style=flat"
-    alt="Pavan" /> 
+   
  
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
+
+Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
+
+* 🌍  I'm based in Morshi, Amravati, Maharashtra.
+* ✉️  You can contact me at [Pavanambulkar69@gmail.com](mailto:Pavanambulkar69@@gmail.com)
+* 🧠  I'm learning Full Stack Web Development
+* 📫 How to reach me **7385581794**
+* <a href="https://drive.google.com/file/d/1EIIAuBtFA2rfq4pFJxDQIukrwu3REkhg/view"> 📄 My Resume  </a>
+<p align="center" 
+<a href="https://www.linkedin.com/in/pavan-a-156447220/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
+<a href="mailto:pavanambulkar69@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
+<a href="https://medium.com/@pavanambulkar69"><img src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" width="30 !important" height="30" style="margin-right:15px!important"></a>
+
+</p> 
+
   
 ## ⚡ Tech Stack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanambulkar&layout=compact&theme=tokyonight)
@@ -81,21 +95,13 @@
 <br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Pavanambulkar&bg_color=000000&color=76a8fe&line=bf17fd&point=38b7ab&area=true&hide_border=true)
-###  Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qe7qu2mwtdsnzxsge73a6rkrvu)
-
-## 🤳Get in touch:
-- 📫 How to reach me **7385581794**
-
-- 📄 Know about my experiences https://drive.google.com/file/d/1EIIAuBtFA2rfq4pFJxDQIukrwu3REkhg/view
 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/pavan-a-156447220/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
-<a href="mailto:pavanambulkar69@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
 
-</p> 
+
+
+
+
 
 ## Thanks for visiting :heart:
 
@@ -104,14 +110,9 @@
 
 
   
-<a href="https://info.flagcounter.com/yDWI"><img src="https://s11.flagcounter.com/count2/yDWI/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-### Profile Views
-counting of visitors to this page in this section started from June 24, 2022
 
-![](https://count.getloli.com/get/@0ranjeet.github.readme)
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" >
    
 
 
