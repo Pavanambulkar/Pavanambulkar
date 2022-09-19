@@ -7,7 +7,8 @@
  
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
-Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.
+Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School. An optimistic and self-motivated individual, looking forward
+to work within the IT industry.
 
 * 🌍  I'm based in Morshi, Amravati, Maharashtra.
 * ✉️  You can contact me at [Pavanambulkar69@gmail.com](mailto:Pavanambulkar69@@gmail.com)
