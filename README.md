@@ -15,14 +15,12 @@ to work within the IT industry.
 * 🧠  I'm learning Full Stack Web Development
 * 📫 How to reach me **7385581794**
 * <a href="https://drive.google.com/file/d/1EIIAuBtFA2rfq4pFJxDQIukrwu3REkhg/view"> 📄 My Resume  </a>
-<p align="center" 
-<a href="https://www.linkedin.com/in/pavan-a-156447220/"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
-<a href="mailto:pavanambulkar69@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
-<a href="https://medium.com/@pavanambulkar69"><img src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" width="30 !important" height="30" style="margin-right:15px!important"></a>
 
-</p> 
+<a href="mailto:pavanambulkar69@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
+
 <a href="https://www.linkedin.com/in/pavan-a-156447220"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
 
+<a href="https://medium.com/@pavanambulkar69"><img src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" width="30 !important" height="30" style="margin-right:15px!important"></a>
   
 ## ⚡ Tech Stack
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavanambulkar&layout=compact&theme=tokyonight)
